@@ -2,3 +2,5 @@ A sample text file
 
 
 Added some more text
+
+Adding more text at line 6
